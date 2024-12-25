@@ -1,0 +1,1 @@
+Java-based solution to the [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
